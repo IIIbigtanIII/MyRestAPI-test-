@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "bcrypt": "^3.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
